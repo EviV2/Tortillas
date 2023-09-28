@@ -1,0 +1,58 @@
+img {
+    display: block;
+ 
+    margin-left: auto;
+    margin-right: auto;
+  }  /* la je  change la fonction img pour que les images sois centré en mettant une marge des deux côter*/
+  h1 {
+   
+    background-image: linear-gradient(to right,red , yellow, red);
+    text-align: center;
+    color: white
+
+}   /* la je modifie h1 pour qu'il y est un carré dégrader derrière, il y a un aussi un text align center pour que le text sois aligner et finalement je modifie la couleur du texte pour quel sois en blanc*/
+
+.CenterAlign {
+ font-size: 30px; 
+margin-left: auto;
+margin-right: auto;
+
+width: 150px;
+ background-color: yellow;
+ color: red
+
+}/*la je refet un command pour aligner les élement au millieux mais il y a aussi un agrandissement des charactère de la taile tout court et je change aussi le background color et la coulour tout court*/
+
+
+.leftH{
+
+   
+
+color:yellowgreen ;
+text-align: center;
+
+}
+button{
+background-color: yellow;
+width: auto;
+}/*la je modifie mon boutton*/
+button:hover{
+background-color: rgb(101, 235, 172);
+
+    
+}/* la je modifie se qui se passe quand on met le curseur sur le boutton*/
+button span {
+cursor: crosshair;
+
+
+
+}/*la je modifie comment agis le curseur*/
+  
+
+body {
+  
+    background-repeat: no-repeat;
+    background-image: linear-gradient(to top, red , yellow , red );height: 100vh;
+     
+
+}/*le je modifie le body donc le fond de la page html*/

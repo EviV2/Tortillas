@@ -18,10 +18,10 @@ ul{
     border-style: groove;
     border-width: 15px;
     width: 4cm;
-}
+}/*la je modifie la bordure de ma list ul*/
 ol{
   font-family: "Papyrus" 
-}
+}/*la je modifie la police de text*/
 
 .align{
 text-align: center;
