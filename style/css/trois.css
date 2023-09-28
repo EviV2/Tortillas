@@ -1,0 +1,31 @@
+body{
+background-color: aliceblue;   
+    
+}
+.alig{
+text-align: center;
+
+
+}
+button{
+background-color: skyblue;
+    width: auto;
+    
+
+
+
+
+
+}
+    button:hover{
+    background-color: rgb(101, 235, 172);
+    
+        
+    }
+    button span {
+    cursor: crosshair;
+    
+    
+    
+    }
+

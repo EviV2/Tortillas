@@ -1,0 +1,51 @@
+h1 {
+   
+    background-image: linear-gradient(to right,red , yellow, red);
+    text-align: center;
+    color: white
+
+}   
+.CenterAlign {
+ font-size: 30px; 
+margin-left: auto;
+margin-right: auto;
+
+width: 150px;
+ background-color: yellow;
+ color: red
+
+}
+
+.leftH{
+
+    margin-left: 0;
+margin-right: auto;
+color:yellowgreen ;
+text-align: center;
+
+}
+button{
+background-color: yellow;
+width: auto;
+}
+button:hover{
+background-color: rgb(101, 235, 172);
+
+    
+}
+button span {
+cursor: crosshair;
+
+
+
+}
+  
+
+body {
+  
+    background-repeat: no-repeat;
+    background-image: linear-gradient(to top, red , yellow , red );height: 100vh;
+     
+
+}
+

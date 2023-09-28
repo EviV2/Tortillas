@@ -1,0 +1,30 @@
+body{
+    background-repeat: no-repeat;
+        background-image: linear-gradient(to top,cyan , skyblue , lightblue);height: 100vh;
+
+}
+
+h1{
+ text-align: center;
+color: antiquewhite;
+font-size: 52px;
+}
+h2{
+font-size: 34px;
+text-align: center;
+color: yellow ;
+}
+ul{
+    border-style: groove;
+    border-width: 15px;
+    width: 4cm;
+}
+ol{
+  font-family: "Papyrus" 
+}
+
+.align{
+text-align: center;
+
+}
+

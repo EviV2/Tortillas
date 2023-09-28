@@ -1,0 +1,28 @@
+body{
+background-repeat: no-repeat;
+background-image: linear-gradient(to bottom,red, black);height: 100vh;
+}
+h2{
+    text-align: center;
+    color: #f1efe7;
+}
+h3{
+text-align: center;
+
+
+}
+
+.radio{
+    
+    text-align: center;
+
+    
+    color: honeydew;
+}
+a:link{
+    text-decoration: none;
+}
+button:hover{
+background-color: aliceblue;
+
+}
